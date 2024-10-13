@@ -16,4 +16,4 @@ This project is a backend application developed using Node.js, Express, and Mong
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-github-username>/COMP3123_Assignment_1.git
+   git clone https://github.com/DonelMukiza/101394045_COMP3123_Assignment1.git
